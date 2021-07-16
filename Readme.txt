@@ -4,7 +4,7 @@ Question Answer Platform For college students in a campus
 
 # What inspired us to this project?
 
-College are the hubspots of doubts and commotion. We are overwhelmed with questions and curiosity and are inundated with pertaining doubts. What generally happens, is that we resort to Google to act as our saviour for various college-related doubts. While Google does provide a generic answer to all our questions, we miss highly on point the specific doubts of a campus. This hassle to get our queries answered in specific-reference to our college inspired us to create Campussion.
+College is the hubspot of doubts and commotion. We are overwhelmed with questions and curiosity and are inundated with pertaining doubts. What generally happens, is that we resort to Google to act as our saviour for various college-related doubts. While Google does provide a generic answer to all our questions, we miss highly on point the specific doubts of a campus. This hassle to get our queries answered in specific-reference to our college inspired us to create Campussion.
 
 # Our Solution
 
